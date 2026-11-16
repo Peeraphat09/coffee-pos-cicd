@@ -31,4 +31,3 @@ def test_main_output(capsys):
     main()
     captured = capsys.readouterr()
     assert "SAU Coffee POS Receipt" in captured.out
-    
