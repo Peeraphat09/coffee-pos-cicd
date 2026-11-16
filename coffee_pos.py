@@ -1,5 +1,5 @@
 MENU = {
-    "americano": 999,
+    "americano": 50,
     "latte": 65,
     "cappuccino": 65,
     "mocha": 70,
